@@ -1,0 +1,15 @@
+{
+    "name": "ak_dev/alisa-notion-bot",
+    "description": "Notion",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrey Kozlov",
+            "email": "kozlovaa1@yandex.ru"
+        }
+    ],
+    "require": {
+        "madewithlove/notion-php-sdk": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
