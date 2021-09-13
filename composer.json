@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-        "madewithlove/notion-php-sdk": "dev-master"
+      "ext-curl": "*",
+        "ext-json": "*"
     },
     "minimum-stability": "dev"
 }
